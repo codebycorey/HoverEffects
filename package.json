@@ -1,0 +1,28 @@
+{
+  "name": "CSS3Animations",
+  "version": "0.0.1",
+  "description": "Learning more about animations and transitions working on my css skills",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-compass": "~1.0.3",
+    "grunt-contrib-watch": "~0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rcodonnell/CSSTransitions.git"
+  },
+  "author": "Corey ODonnell",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rcodonnell/CSS3Animations/issues"
+  },
+    "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-compass": "~1.0.3"
+  }
+}
